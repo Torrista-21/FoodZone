@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607667039517",
+    "project_id": "adminfoodorderingapp-21d25",
+    "storage_bucket": "adminfoodorderingapp-21d25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607667039517:android:02218b86cc4a7c6fff05f4",
+        "android_client_info": {
+          "package_name": "com.bca.adminfoodorderingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwE-e7jgqWsvygjeAGXdFDp7518lzJZvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
